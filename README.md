@@ -1,12 +1,23 @@
-### Hi there, I'm Jacob!
+# Hi there, I'm Jacob!
 
-I'm a Full-Stack Software Engineer with an aptitude for quick and creative problem-solving.
+## Software Engineer
 
-Core technical skills include JavaScript, HTML, CSS, React.js, Flask-SQL Alchemy, Tailwind, and Semantic UI.
-In addition to technical skills, I have strong communication and leadership skills, cultivated from a 9-year career in professional music and a previous career in chemistry.
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 
-My aptitude for and interest in learning new things has led me to all corners of the professional spectrum - from performing in and eventually teaching a world-class competitive percussion ensemble, to researching the 3d geometry of organic molecules found in human cells. Each experience has fortified my ability to overcome challenges with creative solutions, high attention to detail, and strong leadership and communication.
+* Graduated from the Flatiron School software engineering program
+* Full-stack experience, currently open to job opportunities!
 
-When I'm not coding, I can usually be found climbing, scuba diving, or pumping up the crowd as a member of the Denver Nuggets Skyline Drumline.
+## Musician
+* Currently working as a bass drummer for the Denver Nuggets Skyline Drumline and the Colorado Avalanche Celly Squad
+  * See what the [Denver Post](https://www.denverpost.com/2023/01/15/celly-squad-avalanche-avs-games-drumline-nuggets-band/) says about us!
+* Previous member (and later an instructor) at [Rise Percussion](https://www.risearts.org/rise-percussion)
 
-![Visitor Count](https://profile-counter.glitch.me/{JakeIVS}/count.svg)
+## Connect with Me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Jacob%20Ives-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-ives/)](https://www.linkedin.com/in/jacob-ives/)
+[![Medium Badge](https://img.shields.io/badge/-@jacob.w.ives-gray?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jacob.w.ives/)](https://medium.com/@jacob.w.ives)
+[![Gmail Badge](https://img.shields.io/badge/-jacob.w.ives@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacob.w.ives@gmail.com)](mailto:jacob.w.ives@gmail.com)
