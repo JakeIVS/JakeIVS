@@ -19,9 +19,10 @@ Previously a Chemist with a Bachelor's Degree from Colorado State University, I 
 
 
 
-## Musician
+## Music Experience
 * Currently working as a bass drummer for the Denver Nuggets Skyline Drumline and the Colorado Avalanche Celly Squad
-* Previous member (and later an instructor) at [Rise Percussion](https://www.risearts.org/rise-percussion)
+* Previous member at [Rise Percussion](https://www.risearts.org/rise-percussion) and [The Blue Knights Percussion Ensemble](https://ascendperformingarts.org/ensembles/bkpe/)
+* Later worked as an Cymbal Instructor at Rise Percussion
 
 ## Connect with Me
 
