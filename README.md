@@ -1,6 +1,6 @@
 # Hi there, I'm Jacob!
 
-Previously a Chemist with a Bachelor's Degree from Colorado State University, I am now an aspiring Software Engineer and Full-Stack Developer. I'm always open to collaborate on projects and learn new technologies! When I'm not coding, you'll find me at 5280 feet above sea level ([playing drums at Ball Arena](https://www.denverpost.com/2023/01/15/celly-squad-avalanche-avs-games-drumline-nuggets-band/)) or higher (rock climbing) or sometimes lower (scuba diving).
+Previously a Chemist with a Bachelor's Degree from Colorado State University, I am now an aspiring Software Engineer and Full-Stack Developer. I'm always open to collaborate on projects and learn new technologies! When I'm not coding, you'll find me at 5280 feet above sea level (drumming at Ball Arena) or higher (rock climbing) or sometimes lower (scuba diving).
 
 ## Software Engineer
 
@@ -20,7 +20,7 @@ Previously a Chemist with a Bachelor's Degree from Colorado State University, I 
 
 
 ## Music Experience
-* Currently working as a bass drummer for the Denver Nuggets Skyline Drumline and the Colorado Avalanche Celly Squad
+* Currently working as a bass drummer for the [Denver Nuggets Skyline Drumline and the Colorado Avalanche Celly Squad](https://www.denverpost.com/2023/01/15/celly-squad-avalanche-avs-games-drumline-nuggets-band/)
 * Previous member at [Rise Percussion](https://www.risearts.org/rise-percussion) and [The Blue Knights Percussion Ensemble](https://ascendperformingarts.org/ensembles/bkpe/)
 * Later worked as an Cymbal Instructor at Rise Percussion
 
