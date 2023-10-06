@@ -1,6 +1,6 @@
 # Hi there, I'm Jacob!
 
-Previously a Chemist with a Bachelor's Degree from Colorado State University, I am now an aspiring Software Engineer and Full-Stack Developer. I'm always open to collaborate on projects and learn new technologies! When I'm not coding, you'll find me at 5280 feet above sea level (drumming at Ball Arena) or higher (rock climbing) or sometimes lower (scuba diving).
+Previously a Chemist with a Bachelor's Degree from Colorado State University, I am now a Software Engineer and Full-Stack Developer. I'm always open to collaborate on projects and learn new technologies! When I'm not coding, you'll find me at 5280 feet above sea level (drumming at Ball Arena) or higher (rock climbing) or sometimes lower (scuba diving).
 
 ## Software Engineer
 
