@@ -10,11 +10,11 @@ Previously a Chemist with a Bachelor of Science from Colorado State University, 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
 
 
 * Graduated from the Flatiron School software engineering program
