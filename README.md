@@ -15,6 +15,7 @@ Previously a Chemist with a Bachelor of Science from Colorado State University, 
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 
 
 * Graduated from the Flatiron School software engineering program
