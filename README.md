@@ -19,7 +19,7 @@ Previously a Chemist with a Bachelor of Science from Colorado State University, 
 
 * Graduated from the Flatiron School software engineering program
 * Full-stack experience, currently open to job opportunities!
-* Currently working on pet projects
+* Working on pet projects
 * Currently experimenting with Next.js and improving my TypeScript skills
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeIVS&hide=TeX&layout=compact)
