@@ -17,9 +17,9 @@ Previously a Chemist with a Bachelor of Science from Colorado State University, 
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 
 
+* Previously a QA Analyst turned Software Engineer at Springbig Inc.
 * Graduated from the Flatiron School software engineering program
 * Full-stack experience
-* Currently working as a QA Analyst at Springbig Inc.
 * Working on pet projects, open to collaboration!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeIVS&hide=TeX&layout=compact)
