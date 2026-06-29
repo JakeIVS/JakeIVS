@@ -7,6 +7,8 @@ Previously a Chemist with a Bachelor of Science from Colorado State University, 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
+![Rails](https://img.shields.io/badge/-Rails-black?style=flat-square&logo=rubyonrails)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
